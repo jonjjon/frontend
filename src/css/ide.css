@@ -33,8 +33,9 @@
     width: 30vw;
     padding: 1vw;
     border: 1px solid black;
-    height: 40vw;
+    height: 45vw;
     overflow: scroll;
+
     align-items: flex-start;
     justify-content: flex-start;
 }
